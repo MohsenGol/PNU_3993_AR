@@ -1,8 +1,7 @@
-PNU_3993_AR_Internship
 <div dir="rtl">
 
 <a name="TOC"></a>
-# [PNU_3992](https://github.com/AliRazavi-edu/C_HumanComputerInteraction#TOC)
+# [PNU_3993]()
 
 ## Human Computer Interaction
 ## محسن گلی
