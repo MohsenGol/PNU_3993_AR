@@ -5,7 +5,7 @@
 
 ## Internship
 ## محسن گلی
-- [PNU_3993_AR](https://github.com/MohsenGol/PNU_3992_AR)
+- [PNU_3993_AR](https://github.com/MohsenGol/PNU_3993_AR)
 - [Resume](https://mohsengol.github.io/CV/) 
 - [SOP](https://mohsengol.github.io/CV/single-Farsi.html)
 - [Certificates](https://mohsengol.github.io/CV/img/portfolio/SoloLearn/cert-1024-20241735.jpg)
