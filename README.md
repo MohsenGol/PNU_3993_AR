@@ -5,7 +5,7 @@
   <tr>      
     <th >واحد</th>
     <th>نام درس</th>
-    <th><table>شماره و گروه درس</table></th>
+    <th><table><th>شماره و گروه درس</th></table></th>
     <th>ردیف</th>
   </tr>
   <tr>
