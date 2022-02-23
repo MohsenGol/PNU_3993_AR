@@ -15,7 +15,7 @@
     <th ></th>
     <th ></th>
     <th>کارآموزی</th>
-    <th><tr><th><a  href="">1322029-31</a></th><th></th></tr></th>
+    <th><tr><th><a  href="">1322029-31</a></th></tr></th>
     <th>۱</th>
   </tr>
    <tr>
@@ -25,38 +25,6 @@
     <th>پروژه پایانی</th>
     <th ><a  href="">1322094-31</a></th>
     <th>۲</th>
-  </tr>
-   <tr>
-     <th ></th>
-     <th ></th>
-     <th></th>
-     <th></th>
-    <th ></th>   
-    <th>دوشنبه</th>
-  </tr>
-   <tr>
-    <th ></th>
-    <th ></th>
-    <th></th>
-    <th></th>
-    <th ></th>
-    <th>سه شنبه</th>
-  </tr>
-   <tr>
-    <th ></th>
-    <th ></th>
-    <th></th>
-    <th></th>
-     <th ></th>
-    <th>چهارشنبه</th>
-  </tr>
-   <tr>
-    <th ></th>
-     <th ></th>
-     <th ></th>
-     <th></th>
-    <th></th>
-    <th>پنج شنبه</th>
   </tr>
 </table>
 </div>
