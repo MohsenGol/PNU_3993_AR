@@ -16,7 +16,7 @@
   </tr>
    <tr>
     <th>۱</th>
-     <th>[کارآموزی]</th>
+     <th><a href="part">کارآموزی</a></th>
     <th ><a href="">1322029 - 31</a></th>
     <th>۲</th>
   </tr>
