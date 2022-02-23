@@ -15,7 +15,7 @@
     <th ></th>
     <th ></th>
     <th></th>
-    <th></th>
+    <th><a  href="">1322029-31کارآموزی</a></th>
     <th>شنبه</th>
   </tr>
    <tr>
@@ -23,7 +23,7 @@
     <th ></th>
     <th></th>
     <th></th>
-    <th ><a  href="https://github.com/AliRazavi-edu/C_HumanComputerInteraction">1322029-31کارآموزی</a></th>
+    <th ><a  href="">1322029-31کارآموزی</a></th>
     <th>یک شنبه</th>
   </tr>
    <tr>
