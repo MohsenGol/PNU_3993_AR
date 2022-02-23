@@ -3,8 +3,8 @@
 <div dir="ltr">
 <table style="width:100%">
   <tr>
-    
-    
+    <th ></th>
+    <th ></th>      
     <th >واحد</th>
     <th>نام درس</th>
     <th>شماره و گروه درس</th>
