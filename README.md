@@ -23,7 +23,7 @@
     <th ></th>
     <th></th>
     <th>پروژه پایانی</th>
-     <th ><tr><td><a  href="">1322094 - 31</a></td></tr></th>
+     <th ><tr><a  href="">1322094 - 31</a></tr></th>
     <th>۲</th>
   </tr>
 </table>
