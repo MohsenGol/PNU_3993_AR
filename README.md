@@ -1,5 +1,5 @@
 <a name="Course-Table"></a>
-## روز و ساعت ارائه دروس
+## لیست دروس ترم ۹۹-۱۴۰۰
 <div dir="ltr">
 <table style="width:100%">
   <tr>      
