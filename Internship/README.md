@@ -31,7 +31,7 @@
     5. [ایجاد ریپازیتوری PNU_3992_AR](https://github.com/MohsenGol/PNU_3992_AR)
     6. [گذراندن دوره js از سایت سولولرن](https://mohsengol.github.io/CV/img/portfolio/SoloLearn/cert-1024-20241735.jpg)
     7. [گذراندن دوره HTML از سایت سولولرن](https://mohsengol.github.io/CV/img/portfolio/SoloLearn/cert-1014-20241735.jpg)
-    ----------------10**  
+    ----------------  
    
 
 [<kbd>↩</kbd>](#TOC)
