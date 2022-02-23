@@ -7,6 +7,7 @@
     <th>نام درس</th>
     <th>شماره و گروه درس</th>
     <th>ردیف</th>
+    <table></table>
   </tr>
   <tr>
     <th >۳</th>
