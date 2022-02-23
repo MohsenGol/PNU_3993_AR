@@ -15,7 +15,7 @@
     <th ></th>
     <th ></th>
     <th>کارآموزی</th>
-    <th><a  href="">1322029-31</a></th>
+    <th><a  href="">1322029 - 31</a></th>
     <th>۱</th>
   </tr>
    <tr>
@@ -23,7 +23,7 @@
     <th ></th>
     <th></th>
     <th>پروژه پایانی</th>
-     <th ><table style="width:100%"><a  href="">1322094-31</a></table></th>
+     <th ><table style="width:100%"><th><a  href="">1322094 - 31</a></th></table></th>
     <th>۲</th>
   </tr>
 </table>
