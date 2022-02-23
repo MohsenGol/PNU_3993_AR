@@ -15,7 +15,7 @@
     <th ></th>
     <th ></th>
     <th>کارآموزی</th>
-    <th><th><a  href="">1322029-31</a></th></th>
+    <th><a  href="">1322029-31</a></th>
     <th>۱</th>
   </tr>
    <tr>
