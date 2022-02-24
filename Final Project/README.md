@@ -3,7 +3,7 @@
 <a name="TOC"></a>
 # [PNU_3993]()
 
-## Internship
+## Final Project
 ## محسن گلی
 - [PNU_3993_AR](https://github.com/MohsenGol/PNU_3993_AR)
 - [Resume](https://mohsengol.github.io/CV/) 
