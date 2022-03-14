@@ -1,0 +1,13 @@
+
+    fun copyDataBase() {
+        val inputStream = context.assets.open(source)
+        val outFile = packageName + dbName
+        val uotPutStream = FileOutputStream(outFile)
+        val buffer = ByteArray(1024)
+        var lenght = 0
+        while (inputStream.read(buffer).also({ lenght = it }) > 0)
+            uotPutStream.write(buffer, 0, lenght)
+        uotPutStream.flush()
+        uotPutStream.close()
+        inputStream.close()
+    }
