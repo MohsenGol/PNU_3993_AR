@@ -9,7 +9,7 @@
     <th>ردیف</th>
   </tr>
   <tr>
-    <th >۳</th>
+    <th ><a href="#">۳</a></th>
     <th><a href="#">پروژه پایانی</a></th>
     <th><a href="#">1322094 - 31</a></th>
     <th>۱</th>
